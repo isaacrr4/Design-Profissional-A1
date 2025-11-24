@@ -24,7 +24,7 @@ Este repositório reúne todas as evidências solicitadas na **Avaliação A1**,
 
 📎 **Evidência:**  
 *(Inserir link do Lattes ou PDF)*  
-**Arquivo:** [link do curriculo]curriculo.pdf(https://github.com/user-attachments/files/23733788/curriculo.pdf)
+**Arquivo:** curriculo.pdf(https://github.com/user-attachments/files/23733788/curriculo.pdf)
 
 
 ---
@@ -60,7 +60,7 @@ Cada repositório deve conter um README básico.
 
 📎 **Certificado:**  
 *(Inserir PDF do certificado ou comprovante)*  
-**Arquivo:** `[Certificado.pdf](https://github.com/user-attachments/files/23733789/Certificado.pdf)
-`
+**Arquivo:** Certificado.pdf(https://github.com/user-attachments/files/23733789/Certificado.pdf)
+
 
 ---
