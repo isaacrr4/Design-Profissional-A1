@@ -34,4 +34,4 @@ O objetivo deste trabalho é apresentar uma visão completa sobre como construir
 - Ferramentas de IA para estudo e produtividade  
 - Criação de workflows pessoais  
 
-### ✔ *Susten*
+
