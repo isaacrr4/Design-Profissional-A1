@@ -31,10 +31,10 @@ Este repositório reúne todas as evidências solicitadas na **Avaliação A1**,
 
 ### **3. Portfólio no GitHub – (Valor: 1,0)**  
 **Descrição:** Repositório com README profissional e pelo menos 1 projeto relevante.  
-**Evidência:** Link do portfólio.
+**Evidência:** [Link do portfólio](https://github.com/isaacrr4/projeto-loja-de-tenis.git).
 
 📎 **Portfólio GitHub:**  
-👉 *(Inserir link do seu GitHub/portfólio)*
+👉 *[(Inserir link do seu GitHub/portfólio)](https://github.com/isaacrr4/projeto-loja-de-tenis.git)*
 
 Inclui:  
 - README profissional  
