@@ -48,10 +48,10 @@ Inclui:
 Cada repositório deve conter um README básico.
 
 📁 **Repositórios:**  
-- [design profisional](#)  
-- [banco de dados](#)  
-- [desenvolvimento web](#)  
-- [algoratimo e pensamento computacional](#)
+- [design profisional](https://github.com/isaacrr4/importancia-cursos.git)  
+- [banco de dados](https://github.com/isaacrr4/importancia-cursos.git)  
+- [desenvolvimento web](https://github.com/isaacrr4/importancia-cursos.git)  
+- [algoratimo e pensamento computacional](https://github.com/isaacrr4/importancia-cursos.git)
 
 ---
 
