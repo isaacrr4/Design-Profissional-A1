@@ -24,7 +24,7 @@ Este repositório reúne todas as evidências solicitadas na **Avaliação A1**,
 
 📎 **Evidência:**  
 *(Inserir link do Lattes ou PDF)*  
-**Arquivo:** `[curriculo.pdf](https://github.com/user-attachments/files/23733788/curriculo.pdf)
+**Arquivo:** `[link do curriculo][curriculo.pdf](https://github.com/user-attachments/files/23733788/curriculo.pdf)
 `
 
 ---
