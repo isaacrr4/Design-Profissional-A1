@@ -24,7 +24,8 @@ Este repositório reúne todas as evidências solicitadas na **Avaliação A1**,
 
 📎 **Evidência:**  
 *(Inserir link do Lattes ou PDF)*  
-**Arquivo:** `Curriculo_Latex.pdf`
+**Arquivo:** `[curriculo.pdf](https://github.com/user-attachments/files/23733788/curriculo.pdf)
+`
 
 ---
 
@@ -47,10 +48,10 @@ Inclui:
 Cada repositório deve conter um README básico.
 
 📁 **Repositórios:**  
-- [Algoritmos](#)  
-- [Fundamentos de TI](#)  
-- [Matemática](#)  
-- [Comunicação](#)
+- [design profisional](#)  
+- [banco de dados](#)  
+- [desenvolvimento web](#)  
+- [algoratimo e pensamento computacional](#)
 
 ---
 
@@ -59,25 +60,7 @@ Cada repositório deve conter um README básico.
 
 📎 **Certificado:**  
 *(Inserir PDF do certificado ou comprovante)*  
-**Arquivo:** `Certificado_Evento.pdf`
+**Arquivo:** `[Certificado.pdf](https://github.com/user-attachments/files/23733789/Certificado.pdf)
+`
 
 ---
-
-## 📂 Organização Recomendada do Repositório
-
-```plaintext
-📁 DesignProfissional_A1
-├── 📄 Curriculo_Latex.pdf
-├── 📄 Certificado_Evento.pdf
-├── 📄 Relato_Processo_Seletivo.pdf
-├── 📁 Portfolio
-│   └── README.md
-├── 📁 Repositorios_1Semestre
-│   ├── Algoritmos/
-│   ├── Fundamentos_TI/
-│   ├── Matemática/
-│   └── Comunicação/
-└── README.md  ← (este documento)
-
-
-
